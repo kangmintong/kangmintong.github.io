@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am Mintong Kang, a first-year Ph.D. student at [UIUC CS(https://cs.illinois.edu/)] advised by Prof. [Bo Li(https://aisecure.github.io/)].
 
 ## Research Interests
 
