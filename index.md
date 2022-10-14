@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am Mintong Kang, a first-year Ph.D. student at [UIUC CS (https://cs.illinois.edu/)] advised by Prof. [Bo Li (https://aisecure.github.io/)].
+I am Mintong Kang, a first-year Ph.D. student at [UIUC CS] (https://cs.illinois.edu/) advised by Prof. [Bo Li] (https://aisecure.github.io/).
 My research interest lies in the **intersection of machine learning and robustness, fairness, generalization**.
 
-Before that, I got the bachlor of engineering degree from the CS department of [Zhejiang University (https://www.zju.edu.cn/english/)]. 
-I work with Prof. [Xi Li (https://person.zju.edu.cn/en/xilics)] on continual learning at DCD Lab @ Zhejiang University. I also luckily work with Prof. [Alan L. Yuille (https://www.cs.jhu.edu/~ayuille/)] at [CCVL Lab (https://ccvl.jhu.edu/team/)] @ Johns Hopkins University.
+Before that, I got the bachlor of engineering degree from the CS department of [Zhejiang University] (https://www.zju.edu.cn/english/). 
+I work with Prof. [Xi Li] (https://person.zju.edu.cn/en/xilics) on continual learning at DCD Lab @ Zhejiang University. I also luckily work with Prof. [Alan L. Yuille] (https://www.cs.jhu.edu/~ayuille/) at [CCVL Lab] (https://ccvl.jhu.edu/team/) @ Johns Hopkins University.
 
 <!-- ## Research Interests
 
@@ -45,6 +45,29 @@ I work with Prof. [Xi Li (https://person.zju.edu.cn/en/xilics)] on continual lea
   Zengle Zhu, **Mintong Kang**, Alan L. Yuille, Zongwei Zhou
   <br>
   2022 Radiological Society of North America. **RSNA 2022**.
+  
+- **MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning**
+  <br>
+  Hanbin Zhao, Yongjian Fu, **Mintong Kang**, Qi Tian, Fei Wu, Xi Li
+  <br>
+  IEEE Transactions on Pattern Analysis and Machine Intelligence. **TPAMI 2021**.
+  <br>
+  [[PDF](https://arxiv.org/abs/2006.15524)] 
+  
+## Preprints
+
+- **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**
+  <br>
+  **Mintong Kang**^*, Linyi Li^*, Maurice Weber, Yang Liu, Ce Zhang, Bo Li
+  <br>
+  Under review.
+  
+- **Label-Assemble: Leveraging Multiple Datasets with Partial Labels**
+  <br>
+  **Mintong Kang**, Yongyi Lu, Alan L. Yuille, Zongwei Zhou
+  <br>
+  Under review.
+  [[PDF](https://arxiv.org/abs/2109.12265)] 
   
 
 ## Services
