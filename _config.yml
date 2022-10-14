@@ -1,7 +1,7 @@
 # Basic Information 
 title: Mintong Kang
 position: CS Ph.D.
-affiliation: University of Illinois at Urbana-Champaign
+affiliation: UIUC
 email: mintong2@illinois.edu
 
 # Search Engine Optimization (SEO)
@@ -19,8 +19,8 @@ github_link: https://github.com/kangmintong
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon.jpeg
+favicon_dark: ./assets/img/favicon-dark.jpeg
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
