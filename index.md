@@ -5,18 +5,18 @@ layout: homepage
 ## About Me
 
 I am Mintong Kang, a first-year Ph.D. student at [UIUC CS(https://cs.illinois.edu/)] advised by Prof. [Bo Li(https://aisecure.github.io/)].
+My research interest lies in the intersection of machine learning and robustness, fairness, generalization.
 
-## Research Interests
+<!-- ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2022]** Two papers accepted to NeurIPS 2022.
+- **[Aug. 2022]** Began study at UIUC.
+- **[Jun. 2022]** Graduated from CS department of Zhejian University.
 
 ## Publications
 
@@ -46,5 +46,5 @@ I am Mintong Kang, a first-year Ph.D. student at [UIUC CS(https://cs.illinois.ed
 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Conference Reviewers: ICML 2022, NeurIPS 2022.
+- Workshop committee member: NeurIPS 2022 Deu Dao Workshop.
