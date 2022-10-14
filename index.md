@@ -58,7 +58,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
 
 - **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**
   <br>
-  **Mintong Kang**^*, Linyi Li^*, Maurice Weber, Yang Liu, Ce Zhang, Bo Li
+  **Mintong Kang**, Linyi Li, Maurice Weber, Yang Liu, Ce Zhang, Bo Li
   <br>
   Under review.
   
@@ -67,6 +67,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   **Mintong Kang**, Yongyi Lu, Alan L. Yuille, Zongwei Zhou
   <br>
   Under review.
+  <br>
   [[PDF](https://arxiv.org/abs/2109.12265)] 
   
 
