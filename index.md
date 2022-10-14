@@ -23,29 +23,29 @@ I work with Prof. [Xi Li (https://person.zju.edu.cn/en/xilics)] on continual lea
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Certifying Some Distributional Fairness with Subpopulation Decomposition**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Mintong Kang**^*, Linyi Li^*, Maurice Weber, Yang Liu, Ce Zhang, Bo Li
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/abs/2205.15494)] [[Code](https://github.com/AI-secure/Certified-Fairness)] 
+<!--   <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Fairness in Federated Learning via Core-Stability**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Bhaskar Ray Chaudhury, Linyi Li, **Mintong Kang**, Bo Li, Ruta Mehta
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://www.bhaskar-ray-chaudhury.com/_files/ugd/76b3bf_2eb786736f76442baf822c07a14aa0d0.pdf)] 
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Assembling and Exploiting Large-scale Existing Labels of Common Thorax Diseases for Improved COVID-19 Classification Using Chest Radiographs**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  Zengle Zhu, **Mintong Kang**, Alan L. Yuille, Zongwei Zhou
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  2022 Radiological Society of North America. **RSNA 2022**.
+  
 
 ## Services
 
