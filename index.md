@@ -25,7 +25,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
 
 - **Certifying Some Distributional Fairness with Subpopulation Decomposition**
   <br>
-  **Mintong Kang**<sup>*, Linyi Li<sup>*, Maurice Weber, Yang Liu, Ce Zhang, Bo Li
+  **Mintong Kang**, Linyi Li, Maurice Weber, Yang Liu, Ce Zhang, Bo Li
   <br>
   Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
