@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Mintong Kang, a first-year Ph.D. student at [UIUC CS(https://cs.illinois.edu/)] advised by Prof. [Bo Li(https://aisecure.github.io/)].
+I am Mintong Kang, a first-year Ph.D. student at [[UIUC CS](https://cs.illinois.edu/)] advised by Prof. [[Bo Li](https://aisecure.github.io/)].
 My research interest lies in the intersection of machine learning and robustness, fairness, generalization.
 
 <!-- ## Research Interests
