@@ -39,6 +39,12 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
   [[PDF](https://www.bhaskar-ray-chaudhury.com/_files/ugd/76b3bf_2eb786736f76442baf822c07a14aa0d0.pdf)] 
+  
+- **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**
+  <br>
+  **Mintong Kang**, Linyi Li, Bo Li
+  <br>
+  IEEE Conference on Secure and Trustworthy Machine Learning 2022. **SaTML 2022**
 
 - **Assembling and Exploiting Large-scale Existing Labels of Common Thorax Diseases for Improved COVID-19 Classification Using Chest Radiographs**
   <br>
@@ -50,17 +56,11 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   Hanbin Zhao, Yongjian Fu, **Mintong Kang**, Qi Tian, Fei Wu, Xi Li
   <br>
-  IEEE Transactions on Pattern Analysis and Machine Intelligence. **TPAMI 2021**.
+  IEEE Transactions on Pattern Analysis and Machine Intelligence 2021. **TPAMI 2021**.
   <br>
   [[PDF](https://arxiv.org/abs/2006.15524)] 
   
 ## Preprints
-
-- **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**
-  <br>
-  **Mintong Kang**, Linyi Li, Bo Li
-  <br>
-  Under review.
   
 - **Label-Assemble: Leveraging Multiple Datasets with Partial Labels**
   <br>
