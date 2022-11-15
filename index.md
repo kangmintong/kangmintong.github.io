@@ -29,7 +29,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
-  [[PDF](https://arxiv.org/abs/2205.15494)] [[Code](https://github.com/AI-secure/Certified-Fairness)] 
+  [[PDF](https://arxiv.org/abs/2205.15494)] [[Code](https://github.com/AI-secure/Certified-Fairness)]
 <!--   <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 - **Fairness in Federated Learning via Core-Stability**
@@ -44,7 +44,8 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   **Mintong Kang**, Linyi Li, Bo Li
   <br>
-  IEEE Conference on Secure and Trustworthy Machine Learning 2022. **SaTML 2022**
+  IEEE Conference on Secure and Trustworthy Machine Learning 2022. **SaTML 2022**.
+  [[PDF](https://openreview.net/pdf?id=mJF9_Fs52ut)]
 
 - **Assembling and Exploiting Large-scale Existing Labels of Common Thorax Diseases for Improved COVID-19 Classification Using Chest Radiographs**
   <br>
@@ -68,7 +69,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   Under review.
   <br>
-  [[PDF](https://arxiv.org/abs/2109.12265)] 
+  [[PDF](https://arxiv.org/abs/2109.12265)] [[Code](https://github.com/mrgiovanni/labelassemble)] [[Slide](https://d5b3ebbb-7f8d-4011-9114-d87f4a930447.filesusr.com/ugd/deaea1_d6c4a2b816f442209fbce205fc795b5a.pdf)]
   
 
 ## Services
