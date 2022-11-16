@@ -45,6 +45,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   **Mintong Kang**, Linyi Li, Bo Li
   <br>
   IEEE Conference on Secure and Trustworthy Machine Learning 2022. **SaTML 2022**.
+  <br>
   [[PDF](https://openreview.net/pdf?id=mJF9_Fs52ut)]
 
 - **Assembling and Exploiting Large-scale Existing Labels of Common Thorax Diseases for Improved COVID-19 Classification Using Chest Radiographs**
