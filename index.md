@@ -44,7 +44,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   **Mintong Kang**, Linyi Li, Bo Li
   <br>
-  IEEE Conference on Secure and Trustworthy Machine Learning 2022. **SaTML 2022**.
+  IEEE Conference on Secure and Trustworthy Machine Learning 2023. **SaTML 2023**.
   <br>
   [[PDF](https://openreview.net/pdf?id=mJF9_Fs52ut)]
 
