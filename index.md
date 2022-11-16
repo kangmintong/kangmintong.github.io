@@ -17,11 +17,21 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
 
 ## News
 
+- **[Nov. 2022]** One paper accepted to SaTML 2023.
+- **[Oct. 2022]** Received NeurIPS 2022 Scholar Award.
 - **[Sep. 2022]** Two papers accepted to NeurIPS 2022.
 - **[Aug. 2022]** Began study at UIUC.
 - **[Jun. 2022]** Graduated from CS department of Zhejian University.
 
 ## Publications
+
+- **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**
+  <br>
+  **Mintong Kang**, Linyi Li, Bo Li
+  <br>
+  IEEE Conference on Secure and Trustworthy Machine Learning 2023. **SaTML 2023**.
+  <br>
+  [[PDF](https://openreview.net/pdf?id=mJF9_Fs52ut)]
 
 - **Certifying Some Distributional Fairness with Subpopulation Decomposition**
   <br>
@@ -39,14 +49,6 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
   [[PDF](https://arxiv.org/abs/2211.02091)] [[Code](https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material)]
-  
-- **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**
-  <br>
-  **Mintong Kang**, Linyi Li, Bo Li
-  <br>
-  IEEE Conference on Secure and Trustworthy Machine Learning 2023. **SaTML 2023**.
-  <br>
-  [[PDF](https://openreview.net/pdf?id=mJF9_Fs52ut)]
 
 - **Assembling and Exploiting Large-scale Existing Labels of Common Thorax Diseases for Improved COVID-19 Classification Using Chest Radiographs**
   <br>
@@ -76,4 +78,3 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
 ## Services
 
 - Conference Reviewers: ICML 2022, NeurIPS 2022.
-- Workshop committee member: NeurIPS 2022 Deu Dao Workshop.
