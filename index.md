@@ -38,7 +38,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
-  [[PDF](https://www.bhaskar-ray-chaudhury.com/_files/ugd/76b3bf_2eb786736f76442baf822c07a14aa0d0.pdf)] 
+  [[PDF](https://arxiv.org/abs/2211.02091)] [[Code](https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material)]
   
 - **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**
   <br>
