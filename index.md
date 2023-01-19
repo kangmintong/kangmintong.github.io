@@ -7,7 +7,7 @@ layout: homepage
 I am Mintong Kang, a first-year Ph.D. student at [UIUC CS](https://cs.illinois.edu/) advised by Prof. [Bo Li](https://aisecure.github.io/).
 My research interest lies in the **intersection of machine learning and robustness, fairness, generalization**.
 
-Before that, I got the bachlor of engineering degree from the CS department of [Zhejiang University](https://www.zju.edu.cn/english/). 
+Before that, I got the bachelor of engineering degree from the CS department of [Zhejiang University](https://www.zju.edu.cn/english/). 
 I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual learning at DCD Lab @ Zhejiang University. I also luckily work with Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) at [CCVL Lab](https://ccvl.jhu.edu/team/) @ Johns Hopkins University.
 
 <!-- ## Research Interests
