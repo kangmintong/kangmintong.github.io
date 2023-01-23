@@ -25,6 +25,14 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
 
 ## Publications
 
+- **Label-Assemble: Leveraging Multiple Datasets with Partial Labels**
+  <br>
+  **Mintong Kang**, Yongyi Lu, Alan L. Yuille, Zongwei Zhou
+  <br>
+  IEEE International Symposium on Biomedical Imaging 2023. **IBSI 2023**
+  <br>
+  [[PDF](https://arxiv.org/abs/2109.12265)] [[Code](https://github.com/mrgiovanni/labelassemble)] [[Slide](https://d5b3ebbb-7f8d-4011-9114-d87f4a930447.filesusr.com/ugd/deaea1_d6c4a2b816f442209fbce205fc795b5a.pdf)]
+
 - **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**
   <br>
   **Mintong Kang**, Linyi Li, Bo Li
@@ -50,11 +58,11 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   [[PDF](https://arxiv.org/abs/2211.02091)] [[Code](https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material)]
 
-- **Assembling and Exploiting Large-scale Existing Labels of Common Thorax Diseases for Improved COVID-19 Classification Using Chest Radiographs**
+<!-- - **Assembling and Exploiting Large-scale Existing Labels of Common Thorax Diseases for Improved COVID-19 Classification Using Chest Radiographs**
   <br>
   Zengle Zhu, **Mintong Kang**, Alan L. Yuille, Zongwei Zhou
   <br>
-  2022 Radiological Society of North America. **RSNA 2022**.
+  2022 Radiological Society of North America. **RSNA 2022**. -->
   
 - **MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning**
   <br>
@@ -64,15 +72,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   [[PDF](https://arxiv.org/abs/2006.15524)] 
   
-## Preprints
-  
-- **Label-Assemble: Leveraging Multiple Datasets with Partial Labels**
-  <br>
-  **Mintong Kang**, Yongyi Lu, Alan L. Yuille, Zongwei Zhou
-  <br>
-  Under review.
-  <br>
-  [[PDF](https://arxiv.org/abs/2109.12265)] [[Code](https://github.com/mrgiovanni/labelassemble)] [[Slide](https://d5b3ebbb-7f8d-4011-9114-d87f4a930447.filesusr.com/ugd/deaea1_d6c4a2b816f442209fbce205fc795b5a.pdf)]
+<!-- ## Preprints -->
   
 
 ## Services
