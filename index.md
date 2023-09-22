@@ -16,14 +16,32 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
-
+- **[Sep. 2023]** Two papers accepted to NeurIPS 2023.
+- **[June. 2023]** Organized KLR workshop at ICML 2023.
 - **[Nov. 2022]** One paper accepted to SaTML 2023.
 - **[Oct. 2022]** Received NeurIPS 2022 Scholar Award.
 - **[Sep. 2022]** Two papers accepted to NeurIPS 2022.
-- **[Aug. 2022]** Began study at UIUC.
-- **[Jun. 2022]** Graduated from CS department of Zhejian University.
+
+[//]: # (- **[Aug. 2022]** Began study at UIUC.)
+
+[//]: # (- **[Jun. 2022]** Graduated from CS department of Zhejian University.)
 
 ## Publications
+- **DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification**
+  <br>
+  **Mintong Kang**, Dawn Song, Bo Li
+  <br>
+  Thirty-seventh Conference on Neural Information Processing Systems. **NeurIPS 2023**.
+  <br>
+ [[PDF](https://kangmintong.github.io/)] [[Code](https://kangmintong.github.io/)]
+
+- **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**
+  <br>
+  Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, **Mintong Kang**, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li
+  <br>
+  Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track. **NeurIPS 2023**.
+  <br>
+ [[PDF](https://arxiv.org/abs/2306.11698)] [[Code](https://github.com/AI-secure/DecodingTrust)]
 
 - **Label-Assemble: Leveraging Multiple Datasets with Partial Labels**
   <br>
@@ -39,7 +57,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   IEEE Conference on Secure and Trustworthy Machine Learning 2023. **SaTML 2023**.
   <br>
-  [[PDF](https://openreview.net/pdf?id=mJF9_Fs52ut)]
+  [[PDF](https://openreview.net/pdf?id=mJF9_Fs52ut)] [[Code](https://github.com/kangmintong/FaShapley)]
 
 - **Certifying Some Distributional Fairness with Subpopulation Decomposition**
   <br>
@@ -77,4 +95,5 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
 
 ## Services
 
-- Conference Reviewers: ICML 2022, NeurIPS 2022.
+- Conference Reviewers: ICML 2022,2023; NeurIPS 2022,2023; KDD 2023.
+- Workshop organizer: KLR@ICML 2023.
