@@ -17,7 +17,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
 
 ## News
 - **[Sep. 2023]** Two papers accepted to NeurIPS 2023.
-- **[June. 2023]** Organized KLR workshop at ICML 2023.
+- **[Jun. 2023]** Organized KLR workshop at ICML 2023.
 - **[Nov. 2022]** One paper accepted to SaTML 2023.
 - **[Oct. 2022]** Received NeurIPS 2022 Scholar Award.
 - **[Sep. 2022]** Two papers accepted to NeurIPS 2022.
