@@ -33,7 +33,7 @@ I work with Prof. [Xi Li](https://person.zju.edu.cn/en/xilics) on continual lear
   <br>
   Thirty-seventh Conference on Neural Information Processing Systems. **NeurIPS 2023**.
   <br>
- [[PDF](https://kangmintong.github.io/)] [[Code](https://kangmintong.github.io/)]
+ [[PDF](https://kangmintong.github.io/)] [[Code](https://github.com/kangmintong/DiffAttack)]
 
 - **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**
   <br>
