@@ -39,7 +39,7 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 
 - **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**
   <br>
-  Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, **Mintong Kang**, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li
+  Boxin Wang*, Weixin Chen*, Hengzhi Pei*, Chulin Xie*, **Mintong Kang***, Chenhui Zhang*, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li
   <br>
    **[NeurIPS 2023] (Oral)** (Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track)
   <br>
@@ -47,7 +47,7 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 
 - **Certifying Some Distributional Fairness with Subpopulation Decomposition**
   <br>
-  **Mintong Kang**, Linyi Li, Maurice Weber, Yang Liu, Ce Zhang, Bo Li
+  **Mintong Kang***, Linyi Li*, Maurice Weber, Yang Liu, Ce Zhang, Bo Li
   <br>
   **[NeurIPS 2022] (Spotlight)** (Thirty-sixth Conference on Neural Information Processing Systems)
   <br>
