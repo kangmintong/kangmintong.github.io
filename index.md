@@ -35,7 +35,7 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
   <br>
   **[NeurIPS 2023]** (Thirty-seventh Conference on Neural Information Processing Systems)
   <br>
- [[PDF](https://kangmintong.github.io/docs/DiffAttack.pdf)] [[Code](https://github.com/kangmintong/DiffAttack)]
+ [[PDF](https://openreview.net/pdf?id=QB7ot7p6j7)] [[Code](https://github.com/kangmintong/DiffAttack)]
 
 - **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**
   <br>
