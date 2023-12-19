@@ -18,6 +18,8 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[Dec. 2023]** One paper selected as **Outstanding Paper Award in NeurIPS 2023**.
+- **[Nov. 2023]** Received NeurIPS 2023 Scholar Award.
 - **[Sep. 2023]** Two papers accepted to NeurIPS 2023.
 - **[Jun. 2023]** Organized KLR workshop at ICML 2023.
 - **[Nov. 2022]** One paper accepted to SaTML 2023.
@@ -41,7 +43,7 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
   <br>
   Boxin Wang\*, Weixin Chen\*, Hengzhi Pei\*, Chulin Xie\*, **Mintong Kang\***, Chenhui Zhang\*, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li
   <br>
-   **[NeurIPS 2023] (Oral)** (Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track)
+   **[NeurIPS 2023] (<span style="color:red">Outstanding Paper Award</span>, Oral)** (Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track)
   <br>
  [[PDF](https://arxiv.org/abs/2306.11698)] [[Code](https://github.com/AI-secure/DecodingTrust)]
 
