@@ -18,6 +18,7 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[Jan. 2024]** One paper accepted to ICLR 2024.
 - **[Dec. 2023]** One paper selected as **Outstanding Paper Award in NeurIPS 2023**.
 - **[Nov. 2023]** Received NeurIPS 2023 Scholar Award.
 - **[Sep. 2023]** Two papers accepted to NeurIPS 2023.
@@ -31,13 +32,14 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 [//]: # (- **[Jun. 2022]** Graduated from CS department of Zhejian University.)
 
 ## Research Papers
-- **DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification**
+- **COLEP: Certifiably Robust Learning-Reasoning
+Conformal Prediction Via Probablistic Circuits**
   <br>
-  **Mintong Kang**, Dawn Song, Bo Li
+  **Mintong Kang**, Nezihe Merve Gürel, Linyi Li, Bo Li
   <br>
-  **[NeurIPS 2023]** (Thirty-seventh Conference on Neural Information Processing Systems)
+  **[ICLR 2024]** (Twelfth International Conference on Learning Representations)
   <br>
- [[PDF](https://openreview.net/pdf?id=QB7ot7p6j7)] [[Code](https://github.com/kangmintong/DiffAttack)]
+ [[PDF](https://openreview.net/pdf/5474fcebe1d501f4ff6281d26b70f82bc74d67cc.pdf)] [[Code](https://github.com/kangmintong)]
 
 - **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**
   <br>
@@ -46,6 +48,14 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
    **[NeurIPS 2023] (<span style="color:red">Outstanding Paper Award</span>, Oral)** (Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track)
   <br>
  [[PDF](https://arxiv.org/abs/2306.11698)] [[Code](https://github.com/AI-secure/DecodingTrust)]
+
+- **DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification**
+  <br>
+  **Mintong Kang**, Dawn Song, Bo Li
+  <br>
+  **[NeurIPS 2023]** (Thirty-seventh Conference on Neural Information Processing Systems)
+  <br>
+ [[PDF](https://openreview.net/pdf?id=QB7ot7p6j7)] [[Code](https://github.com/kangmintong/DiffAttack)]
 
 - **Certifying Some Distributional Fairness with Subpopulation Decomposition**
   <br>
