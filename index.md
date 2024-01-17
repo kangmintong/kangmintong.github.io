@@ -73,12 +73,6 @@ Conformal Prediction Via Probablistic Circuits**
   <br>
   [[PDF](https://arxiv.org/abs/2211.02091)] [[Code](https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material)]
 
-- **COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits**
-  <br>
-  **Mintong Kang**, Nezihe Merve Gürel, Linyi Li, Bo Li
-  <br>
-  In preprint, 2023.
-
 - **Certifiably Byzantine-Robust Federated Conformal Prediction**
   <br>
   **Mintong Kang**, Zhen Lin, Jimeng Sun, Cao Xiao, Bo Li 
