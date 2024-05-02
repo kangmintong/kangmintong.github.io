@@ -18,6 +18,7 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[May. 2024]** Two papers accepted to ICML 2024.
 - **[Jan. 2024]** One paper accepted to ICLR 2024.
 - **[Dec. 2023]** One paper selected as **Outstanding Paper Award in NeurIPS 2023**.
 - **[Nov. 2023]** Received NeurIPS 2023 Scholar Award.
@@ -32,6 +33,21 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 [//]: # (- **[Jun. 2022]** Graduated from CS department of Zhejian University.)
 
 ## Research Papers
+- **C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models**
+  <br>
+  **Mintong Kang**, Nezihe Merve Gürel, Ning Yu, Dawn Song, Bo Li<br>
+  **[ICML 2024]** (Forty-first International Conference on Machine Learning)
+  <br>
+  [[PDF](https://arxiv.org/abs/2402.03181)] [[Code](https://github.com/kangmintong/C-RAG)]
+
+- **Certifiably Byzantine-Robust Federated Conformal Prediction**
+  <br>
+  **Mintong Kang**, Zhen Lin, Jimeng Sun, Cao Xiao, Bo Li 
+  <br>
+  **[ICML 2024]** (Forty-first International Conference on Machine Learning)
+  <br>
+  [[PDF](https://kangmintong.github.io/)] [[Code](https://kangmintong.github.io/)]
+
 - **COLEP: Certifiably Robust Learning-Reasoning
 Conformal Prediction Via Probablistic Circuits**
   <br>
@@ -72,12 +88,6 @@ Conformal Prediction Via Probablistic Circuits**
   **[NeurIPS 2022] (Spotlight)** (Thirty-sixth Conference on Neural Information Processing Systems)
   <br>
   [[PDF](https://arxiv.org/abs/2211.02091)] [[Code](https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material)]
-
-- **Certifiably Byzantine-Robust Federated Conformal Prediction**
-  <br>
-  **Mintong Kang**, Zhen Lin, Jimeng Sun, Cao Xiao, Bo Li 
-  <br>
-  In preprint, 2023.
 
 - **Label-Assemble: Leveraging Multiple Datasets with Partial Labels**
   <br>
