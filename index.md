@@ -4,10 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am Mintong Kang, a second-year Ph.D. student at [UIUC CS](https://cs.illinois.edu/) advised by Prof. [Bo Li](https://aisecure.github.io/).
-My research interest lies in **trustworthy machine learning including robustness, fairness, and uncertainty quantification**.
-Recently, I am interested in the trustworthiness properties of *large language models* and *diffusion models*. 
-I am working on exploring the vulnerabilities of them and develop more robust and reliable applications with them in practice.
+I am Mintong Kang, a third-year Ph.D. student at [UIUC CS](https://cs.illinois.edu/) advised by Prof. [Bo Li](https://aisecure.github.io/).
+My research interest lies in trustworthy machine learning and AI safety. I am interested in uncovering the vulnerability of advanced ML models and developing certifiable defense mechanisms to safeguard their universal deployments. I am recently working on the trustworthiness of multi-modal models (VLM, audio/video LLMs) and LLM agent systems.
+
+[//]: # (My research interest lies in **trustworthy machine learning including robustness, fairness, and uncertainty quantification**.)
+
+[//]: # (Recently, I am interested in the trustworthiness properties of *large language models* and *diffusion models*. )
+
+[//]: # (I am working on exploring the vulnerabilities of them and develop more robust and reliable applications with them in practice.)
 
 Before that, I got the bachelor of engineering degree from the CS department of [Zhejiang University](https://www.zju.edu.cn/english/). 
 I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAAAAJ&hl=en) at DCD Lab @ Zhejiang University. I also luckily work with Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) at [CCVL Lab](https://ccvl.jhu.edu/team/) @ Johns Hopkins University.
@@ -115,7 +119,7 @@ Conformal Prediction Via Probablistic Circuits**
 
 ## Services
 
-- **Conference Reviewers**: ICML 2022-2023; NeurIPS 2022-2023; ICLR 2024; CVPR 2023-2024; KDD 2023.
+- **Conference Reviewers**: ICML 2022-2024; NeurIPS 2022-2024; ICLR 2024; CVPR 2023-2024; KDD 2023; AAAI 2025.
 - **Workshop organizer**: [KLR@ICML 2023](https://klr-icml2023.github.io/).
 
 <center>
