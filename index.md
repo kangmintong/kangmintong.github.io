@@ -22,6 +22,7 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[Jan. 2025]** Four papers accepted to ICLR 2025.
 - **[May. 2024]** Two papers accepted to ICML 2024.
 - **[Jan. 2024]** One paper accepted to ICLR 2024.
 - **[Dec. 2023]** One paper selected as **Outstanding Paper Award in NeurIPS 2023**.
@@ -37,6 +38,35 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 [//]: # (- **[Jun. 2022]** Graduated from CS department of Zhejian University.)
 
 ## Research Papers
+
+- **$R^2$-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning**
+  <br>
+  **Mintong Kang**, Bo Li<br>
+  **[ICLR 2025]** (Thirteenth International Conference on Learning Representations)
+  <br>
+  [[PDF](https://arxiv.org/abs/2407.05557)] [[Code](https://github.com/kangmintong/R-2-Guard)]
+
+- **AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models**
+  <br>
+  **Mintong Kang**, Chejian Xu, Bo Li<br>
+  **[ICLR 2025]** (Thirteenth International Conference on Learning Representations)
+  <br>
+  [[PDF](https://arxiv.org/abs/2412.08608)] [[Code](https://github.com/kangmintong/AdvWave)]
+
+- **MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models**
+  <br>
+  Chejian Xu*, Jiawei Zhang*, Zhaorun Chen*, Chulin Xie*, **Mintong Kang***, Zhuowen Yuan*, Zidi Xiong*, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Zhun Wang, Alexander Xiong, Xuandong Zhao, Yu Gai, Francesco Pinto, Yujin Potter, Zhen Xiang, Zinan Lin, Dan Hendrycks, Dawn Song, Bo Li<br>
+  **[ICLR 2025]** (Thirteenth International Conference on Learning Representations)
+  <br>
+  [[PDF](https://openreview.net/pdf?id=qIbbBSzH6n)] [[Code]()]
+
+- **EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**
+  <br>
+  Zeyi Liao*, Lingbo Mo*, Chejian Xu, **Mintong Kang**, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun<br>
+  **[ICLR 2025]** (Thirteenth International Conference on Learning Representations)
+  <br>
+  [[PDF](https://arxiv.org/abs/2409.11295)] [[Code](https://github.com/OSU-NLP-Group/EIA_against_webagent)]
+
 - **C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models**
   <br>
   **Mintong Kang**, Nezihe Merve Gürel, Ning Yu, Dawn Song, Bo Li<br>
