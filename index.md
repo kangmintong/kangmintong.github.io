@@ -55,14 +55,14 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 
 - **MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models**
   <br>
-  Chejian Xu*, Jiawei Zhang*, Zhaorun Chen*, Chulin Xie*, **Mintong Kang***, Zhuowen Yuan*, Zidi Xiong*, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Zhun Wang, Alexander Xiong, Xuandong Zhao, Yu Gai, Francesco Pinto, Yujin Potter, Zhen Xiang, Zinan Lin, Dan Hendrycks, Dawn Song, Bo Li<br>
+  Chejian Xu\*, Jiawei Zhang\*, Zhaorun Chen\*, Chulin Xie\*, **Mintong Kang\***, Zhuowen Yuan\*, Zidi Xiong\*, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Zhun Wang, Alexander Xiong, Xuandong Zhao, Yu Gai, Francesco Pinto, Yujin Potter, Zhen Xiang, Zinan Lin, Dan Hendrycks, Dawn Song, Bo Li<br>
   **[ICLR 2025]** (Thirteenth International Conference on Learning Representations)
   <br>
   [[PDF](https://openreview.net/pdf?id=qIbbBSzH6n)] [[Code]()]
 
 - **EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**
   <br>
-  Zeyi Liao*, Lingbo Mo*, Chejian Xu, **Mintong Kang**, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun<br>
+  Zeyi Liao\*, Lingbo Mo\*, Chejian Xu, **Mintong Kang**, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun<br>
   **[ICLR 2025]** (Thirteenth International Conference on Learning Representations)
   <br>
   [[PDF](https://arxiv.org/abs/2409.11295)] [[Code](https://github.com/OSU-NLP-Group/EIA_against_webagent)]
