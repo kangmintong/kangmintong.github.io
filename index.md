@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Mintong Kang, a third-year Ph.D. student at [UIUC CS](https://cs.illinois.edu/) advised by Prof. [Bo Li](https://aisecure.github.io/).
+I am Mintong Kang, a fourth-year Ph.D. student at [UIUC CS](https://cs.illinois.edu/) advised by Prof. [Bo Li](https://aisecure.github.io/).
 My research interest lies in trustworthy machine learning and AI safety. I am interested in uncovering the vulnerability of advanced ML models and developing certifiable defense mechanisms to safeguard their universal deployments. I am recently working on the trustworthiness of multi-modal models (VLM, audio/video LLMs) and LLM agent systems.
 
 [//]: # (My research interest lies in **trustworthy machine learning including robustness, fairness, and uncertainty quantification**.)
@@ -22,22 +22,62 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[Sep. 2025]** Two first-authored papers accepted to NeurIPS 2025.
+- **[Jun. 2025]** Started research internship at NVIDIA Research.
 - **[Jan. 2025]** Four papers accepted to ICLR 2025.
-- **[May. 2024]** Two papers accepted to ICML 2024.
-- **[Jan. 2024]** One paper accepted to ICLR 2024.
-- **[Dec. 2023]** One paper selected as **Outstanding Paper Award in NeurIPS 2023**.
-- **[Nov. 2023]** Received NeurIPS 2023 Scholar Award.
-- **[Sep. 2023]** Two papers accepted to NeurIPS 2023.
-- **[Jun. 2023]** Organized KLR workshop at ICML 2023.
-- **[Nov. 2022]** One paper accepted to SaTML 2023.
-- **[Oct. 2022]** Received NeurIPS 2022 Scholar Award.
-- **[Sep. 2022]** Two papers accepted to NeurIPS 2022.
+
+[//]: # (- **[May. 2024]** Two papers accepted to ICML 2024.)
+
+[//]: # (- **[Jan. 2024]** One paper accepted to ICLR 2024.)
+
+[//]: # (- **[Dec. 2023]** One paper selected as **Outstanding Paper Award in NeurIPS 2023**.)
+
+[//]: # (- **[Nov. 2023]** Received NeurIPS 2023 Scholar Award.)
+
+[//]: # (- **[Sep. 2023]** Two papers accepted to NeurIPS 2023.)
+
+[//]: # (- **[Jun. 2023]** Organized KLR workshop at ICML 2023.)
+
+[//]: # (- **[Nov. 2022]** One paper accepted to SaTML 2023.)
+
+[//]: # (- **[Oct. 2022]** Received NeurIPS 2022 Scholar Award.)
+
+[//]: # (- **[Sep. 2022]** Two papers accepted to NeurIPS 2022.)
 
 [//]: # (- **[Aug. 2022]** Began study at UIUC.)
 
 [//]: # (- **[Jun. 2022]** Graduated from CS department of Zhejian University.)
 
-## Research Papers
+## Selected Publications
+
+
+- **C-SafeGen: Certified Safe LLM Generation with Claim-Based Streaming Guardrails**
+  <br>
+  **Mintong Kang**, Zhaorun Chen, Bo Li<br>
+  **[NeurIPS 2025]** (Thirty-Ninth Annual Conference on Neural Information Processing Systems)
+  <br>
+  [[PDF](https://openreview.net/forum?id=nOsEyBGk1I&referrer=%5Bthe%20profile%20of%20Mintong%20Kang%5D(%2Fprofile%3Fid%3D~Mintong_Kang1))] [[Code]()]
+  
+- **GuardSet-X: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset**
+  <br>
+  **Mintong Kang**, Zhaorun Chen, Chejian Xu, Jiawei Zhang, Chengquan Guo, Minzhou Pan, Ivan Revilla, Yu Sun, Bo Li<br>
+  **[NeurIPS 2025]** (Thirty-Ninth Annual Conference on Neural Information Processing Systems)
+  <br>
+  [[PDF](https://arxiv.org/abs/2506.19054)] [[Code](https://github.com/AI-secure/PolyGuard)]
+  
+- **AdvAgent: Controllable Blackbox Red-teaming on Web Agents**
+  <br>
+  Chejian Xu, **Mintong Kang**, Jiawei Zhang, Zeyi Liao, Lingbo Mo, Mengqi Yuan, Huan Sun, Bo Li<br>
+  **[ICML 2025]** (Forty-Second International Conference on Machine Learning)
+  <br>
+  [[PDF](https://arxiv.org/abs/2410.17401)] [[Code](https://github.com/AI-secure/AdvAgent)]
+  
+- **ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning**
+  <br>
+  Zhaorun Chen, **Mintong Kang**, Bo Li<br>
+  **[ICML 2025]** (Forty-Second International Conference on Machine Learning)
+  <br>
+  [[PDF](https://arxiv.org/abs/2503.22738)] [[Code]()]
 
 - **$R^2$-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning**
   <br>
@@ -58,7 +98,7 @@ I work with Prof. [Xi Li](https://scholar.google.com.au/citations?user=TYNPJQMAA
   Chejian Xu\*, Jiawei Zhang\*, Zhaorun Chen\*, Chulin Xie\*, **Mintong Kang\***, Zhuowen Yuan\*, Zidi Xiong\*, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Zhun Wang, Alexander Xiong, Xuandong Zhao, Yu Gai, Francesco Pinto, Yujin Potter, Zhen Xiang, Zinan Lin, Dan Hendrycks, Dawn Song, Bo Li<br>
   **[ICLR 2025]** (Thirteenth International Conference on Learning Representations)
   <br>
-  [[PDF](https://openreview.net/pdf?id=qIbbBSzH6n)] [[Code]()]
+  [[PDF](https://openreview.net/pdf?id=qIbbBSzH6n)] [[Code]()]  
 
 - **EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**
   <br>
@@ -115,37 +155,64 @@ Conformal Prediction Via Probablistic Circuits**
   <br>
   [[PDF](https://arxiv.org/abs/2205.15494)] [[Code](https://github.com/AI-secure/Certified-Fairness)]
 
-- **Fairness in Federated Learning via Core-Stability**
-  <br>
-  Bhaskar Ray Chaudhury, Linyi Li, **Mintong Kang**, Bo Li, Ruta Mehta
-  <br>
-  **[NeurIPS 2022] (Spotlight)** (Thirty-sixth Conference on Neural Information Processing Systems)
-  <br>
-  [[PDF](https://arxiv.org/abs/2211.02091)] [[Code](https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material)]
+[//]: # (- **Fairness in Federated Learning via Core-Stability**)
 
-- **Label-Assemble: Leveraging Multiple Datasets with Partial Labels**
-  <br>
-  **Mintong Kang**, Yongyi Lu, Alan L. Yuille, Zongwei Zhou
-  <br>
-  **[IBSI 2023]** (IEEE International Symposium on Biomedical Imaging 2023)
-  <br>
-  [[PDF](https://arxiv.org/abs/2109.12265)] [[Code](https://github.com/mrgiovanni/labelassemble)] [[Slide](https://d5b3ebbb-7f8d-4011-9114-d87f4a930447.filesusr.com/ugd/deaea1_d6c4a2b816f442209fbce205fc795b5a.pdf)]
+[//]: # (  <br>)
 
-- **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**
-  <br>
-  **Mintong Kang**, Linyi Li, Bo Li
-  <br>
-  **[SaTML 2023]** (IEEE Conference on Secure and Trustworthy Machine Learning 2023)
-  <br>
-  [[PDF](https://openreview.net/pdf?id=mJF9_Fs52ut)] [[Code](https://github.com/kangmintong/FaShapley)]
-  
-- **MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning**
-  <br>
-  Hanbin Zhao, Yongjian Fu, **Mintong Kang**, Qi Tian, Fei Wu, Xi Li
-  <br>
-  **[TPAMI 2021]** (IEEE Transactions on Pattern Analysis and Machine Intelligence 2021)
-  <br>
-  [[PDF](https://arxiv.org/abs/2006.15524)] [[Code](https://kangmintong.github.io/)]
+[//]: # (  Bhaskar Ray Chaudhury, Linyi Li, **Mintong Kang**, Bo Li, Ruta Mehta)
+
+[//]: # (  <br>)
+
+[//]: # (  **[NeurIPS 2022] &#40;Spotlight&#41;** &#40;Thirty-sixth Conference on Neural Information Processing Systems&#41;)
+
+[//]: # (  <br>)
+
+[//]: # (  [[PDF]&#40;https://arxiv.org/abs/2211.02091&#41;] [[Code]&#40;https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material&#41;])
+
+[//]: # (- **Label-Assemble: Leveraging Multiple Datasets with Partial Labels**)
+
+[//]: # (  <br>)
+
+[//]: # (  **Mintong Kang**, Yongyi Lu, Alan L. Yuille, Zongwei Zhou)
+
+[//]: # (  <br>)
+
+[//]: # (  **[ISBI 2023]** &#40;IEEE International Symposium on Biomedical Imaging 2023&#41;)
+
+[//]: # (  <br>)
+
+[//]: # (  [[PDF]&#40;https://arxiv.org/abs/2109.12265&#41;] [[Code]&#40;https://github.com/mrgiovanni/labelassemble&#41;] [[Slide]&#40;https://d5b3ebbb-7f8d-4011-9114-d87f4a930447.filesusr.com/ugd/deaea1_d6c4a2b816f442209fbce205fc795b5a.pdf&#41;])
+
+[//]: # ()
+[//]: # (- **FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs**)
+
+[//]: # (  <br>)
+
+[//]: # (  **Mintong Kang**, Linyi Li, Bo Li)
+
+[//]: # (  <br>)
+
+[//]: # (  **[SaTML 2023]** &#40;IEEE Conference on Secure and Trustworthy Machine Learning 2023&#41;)
+
+[//]: # (  <br>)
+
+[//]: # (  [[PDF]&#40;https://openreview.net/pdf?id=mJF9_Fs52ut&#41;] [[Code]&#40;https://github.com/kangmintong/FaShapley&#41;])
+
+[//]: # (  )
+[//]: # (- **MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning**)
+
+[//]: # (  <br>)
+
+[//]: # (  Hanbin Zhao, Yongjian Fu, **Mintong Kang**, Qi Tian, Fei Wu, Xi Li)
+
+[//]: # (  <br>)
+
+[//]: # (  **[TPAMI 2021]** &#40;IEEE Transactions on Pattern Analysis and Machine Intelligence 2021&#41;)
+
+[//]: # (  <br>)
+
+[//]: # (  [[PDF]&#40;https://arxiv.org/abs/2006.15524&#41;] [[Code]&#40;https://kangmintong.github.io/&#41;])
+
 
 ## Services
 
