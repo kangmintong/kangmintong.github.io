@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Mintong Kang | Home</title>
+  <meta name="description" content="Homepage of Mintong Kang">
+  <meta name="author" content="Mintong Kang">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="./assets/css/profile.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+
+  <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.jpeg" type="image/jpeg">
+  <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/favicon.jpeg" type="image/jpeg">
+  <script src="./assets/js/favicon-switcher.js"></script>
+</head>
+<body>
+  <div class="container">
+    <section class="header">
+      <div class="row">
+        <div class="three columns">
+          <a href="./"><img class="u-max-full-width profile-photo" src="./assets/img/avatar.jpg" alt="Mintong Kang"></a>
+        </div>
+        <div class="nine columns main-description">
+          <h1>Mintong Kang</h1>
+          <p>Ph.D. Candidate, Computer Science, UIUC</p>
+          <p>mintong2 [AT] illinois.edu</p>
+          <p class="social-links">
+            <a href="https://scholar.google.com/citations?hl=en&user=oHXw2SAAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+            <a href="https://www.linkedin.com/in/mintong-kang-548214254/" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <div class="navbar-spacer"></div>
+    <nav class="navbar">
+      <div class="container">
+        <ul class="navbar-list">
+          <li class="navbar-item"><a class="navbar-link" href="#bio">Bio</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#publications">Publications</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#service">Service</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="docs-section" id="bio">
+      <h4>Bio</h4>
+      <p>
+        I am a Ph.D. Candidate in Computer Science at the <a href="https://cs.illinois.edu/" target="_blank" rel="noopener">University of Illinois Urbana-Champaign</a>, advised by Prof. <a href="https://aisecure.github.io/" target="_blank" rel="noopener">Bo Li</a>.
+        I develop safety and security methods for advanced AI systems, with a focus on automatic red-teaming, robust guardrails, and certifiable safety guarantees for LLMs, multimodal models, audio-language models, and agentic AI systems.
+      </p>
+      <p>
+        I am currently a Student Researcher at <a href="https://deepmind.google/" target="_blank" rel="noopener">Google DeepMind</a>.
+        Previously, I was a Research Intern at <a href="https://research.nvidia.com/" target="_blank" rel="noopener">NVIDIA Research</a> and <a href="https://aws.amazon.com/ai/" target="_blank" rel="noopener">Amazon AWS AI</a>.
+      </p>
+      <p>
+        My work spans both attacks and defenses: uncovering emerging risks in frontier models and building reliable mechanisms to mitigate them through reasoning, policy grounding, and formal certification.
+        My co-first-authored work <a href="https://arxiv.org/abs/2306.11698" target="_blank" rel="noopener">DecodingTrust</a> received the NeurIPS 2023 Outstanding Paper Award.
+      </p>
+    </div>
+
+    <div class="docs-section" id="publications">
+      <h4>Publications</h4>
+
+      <ul class="tab-nav">
+        <li><div class="button active" data-ref="#papers-selected">Selected and Recent Papers</div></li>
+        <li><div class="button" data-ref="#papers-all">All</div></li>
+      </ul>
+
+      <div class="tab-content">
+        <div class="tab-pane active" id="papers-selected">
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2605.04808" target="_blank" rel="noopener">DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents</a></b> <a class="button" href="https://huggingface.co/datasets/AI-Secure/DTap-Bench-Agent-Trajectories" target="_blank" rel="noopener">Data</a></p>
+            <p>Zhaorun Chen*, Xun Liu*, Haibo Tong*, Chengquan Guo*, Yuzhou Nie*, Jiawei Zhang*, <b>Mintong Kang*</b>, Chejian Xu*, Qichang Liu*, Xiaogeng Liu*, Tianneng Shi*, Chaowei Xiao, Sanmi Koyejo, Percy Liang, Wenbo Guo, Dawn Song, Bo Li</p>
+            <p><i>arXiv preprint, 2026</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2512.00966" target="_blank" rel="noopener">Mitigating Indirect Prompt Injection via Instruction-Following Intent Analysis</a></b></p>
+            <p><b>Mintong Kang</b>, Chong Xiang, Sanjay Kariyappa, Chaowei Xiao, Bo Li, Edward Suh</p>
+            <p><i>arXiv preprint, 2026</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://openreview.net/forum?id=nOsEyBGk1I" target="_blank" rel="noopener">C-SafeGen: Certified Safe LLM Generation with Claim-Based Streaming Guardrails</a></b> <a class="button" href="https://openreview.net/forum?id=nOsEyBGk1I" target="_blank" rel="noopener">Code</a></p>
+            <p><b>Mintong Kang</b>, Zhaorun Chen, Bo Li</p>
+            <p><i>Advances in Neural Information Processing Systems (NeurIPS 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2506.19054" target="_blank" rel="noopener">Poly-Guard: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset</a></b> <a class="button" href="https://github.com/AI-secure/PolyGuard" target="_blank" rel="noopener">Code</a> <a class="button" href="https://huggingface.co/datasets/Virtue-AI-HUB/PolyGuard" target="_blank" rel="noopener">Data</a></p>
+            <p><b>Mintong Kang*</b>, Zhaorun Chen*, Chejian Xu*, Jiawei Zhang*, Chengquan Guo*, Minzhou Pan, Ivan Revilla, Yu Sun, Bo Li</p>
+            <p><i>Advances in Neural Information Processing Systems (NeurIPS 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2410.17401" target="_blank" rel="noopener">AdvAgent: Controllable Blackbox Red-teaming on Web Agents</a></b> <a class="button" href="https://github.com/AI-secure/AdvAgent" target="_blank" rel="noopener">Code</a></p>
+            <p>Chejian Xu, <b>Mintong Kang</b>, Jiawei Zhang, Zeyi Liao, Lingbo Mo, Mengqi Yuan, Huan Sun, Bo Li</p>
+            <p><i>International Conference on Machine Learning (ICML 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2407.05557" target="_blank" rel="noopener">R<sup>2</sup>-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning</a></b> <a class="button" href="https://github.com/kangmintong/R-2-Guard" target="_blank" rel="noopener">Code</a></p>
+            <p><b>Mintong Kang</b>, Bo Li</p>
+            <p><i>International Conference on Learning Representations (ICLR 2025 Spotlight)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2402.03181" target="_blank" rel="noopener">C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models</a></b> <a class="button" href="https://github.com/kangmintong/C-RAG" target="_blank" rel="noopener">Code</a></p>
+            <p><b>Mintong Kang</b>, Nezihe Merve Gürel, Ning Yu, Dawn Song, Bo Li</p>
+            <p><i>International Conference on Machine Learning (ICML 2024)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2306.11698" target="_blank" rel="noopener">DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models</a></b> <a class="button" href="https://github.com/AI-secure/DecodingTrust" target="_blank" rel="noopener">Code</a> <a class="button" href="https://huggingface.co/datasets/AI-Secure/DecodingTrust" target="_blank" rel="noopener">Data</a></p>
+            <p>Boxin Wang*, Weixin Chen*, Hengzhi Pei*, Chulin Xie*, <b>Mintong Kang*</b>, Chenhui Zhang*, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li</p>
+            <p><i>Advances in Neural Information Processing Systems (NeurIPS 2023 Outstanding Paper Award)</i></p>
+          </div>
+        </div>
+
+        <div class="tab-pane" id="papers-all">
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2605.04808" target="_blank" rel="noopener">DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents</a></b> <a class="button" href="https://huggingface.co/datasets/AI-Secure/DTap-Bench-Agent-Trajectories" target="_blank" rel="noopener">Data</a></p>
+            <p>Zhaorun Chen*, Xun Liu*, Haibo Tong*, Chengquan Guo*, Yuzhou Nie*, Jiawei Zhang*, <b>Mintong Kang*</b>, Chejian Xu*, Qichang Liu*, Xiaogeng Liu*, Tianneng Shi*, Chaowei Xiao, Sanmi Koyejo, Percy Liang, Wenbo Guo, Dawn Song, Bo Li</p>
+            <p><i>arXiv preprint, 2026</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2604.08867" target="_blank" rel="noopener">AudioGuard: Toward Comprehensive Audio Safety Protection Across Diverse Threat Models</a></b></p>
+            <p><b>Mintong Kang</b>, Chen Fang, Bo Li</p>
+            <p><i>arXiv preprint, 2026</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2512.00966" target="_blank" rel="noopener">Mitigating Indirect Prompt Injection via Instruction-Following Intent Analysis</a></b></p>
+            <p><b>Mintong Kang</b>, Chong Xiang, Sanjay Kariyappa, Chaowei Xiao, Bo Li, Edward Suh</p>
+            <p><i>arXiv preprint, 2026</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2510.02677" target="_blank" rel="noopener">ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks</a></b></p>
+            <p>Zhaorun Chen*, Xun Liu*, <b>Mintong Kang</b>, Jiawei Zhang, Minzhou Pan, Shuang Yang, Bo Li</p>
+            <p><i>International Conference on Learning Representations (ICLR 2026)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://openreview.net/forum?id=nOsEyBGk1I" target="_blank" rel="noopener">C-SafeGen: Certified Safe LLM Generation with Claim-Based Streaming Guardrails</a></b> <a class="button" href="https://openreview.net/forum?id=nOsEyBGk1I" target="_blank" rel="noopener">Code</a></p>
+            <p><b>Mintong Kang</b>, Zhaorun Chen, Bo Li</p>
+            <p><i>Advances in Neural Information Processing Systems (NeurIPS 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2506.19054" target="_blank" rel="noopener">Poly-Guard: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset</a></b> <a class="button" href="https://github.com/AI-secure/PolyGuard" target="_blank" rel="noopener">Code</a> <a class="button" href="https://huggingface.co/datasets/Virtue-AI-HUB/PolyGuard" target="_blank" rel="noopener">Data</a></p>
+            <p><b>Mintong Kang*</b>, Zhaorun Chen*, Chejian Xu*, Jiawei Zhang*, Chengquan Guo*, Minzhou Pan, Ivan Revilla, Yu Sun, Bo Li</p>
+            <p><i>Advances in Neural Information Processing Systems (NeurIPS 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2410.17401" target="_blank" rel="noopener">AdvAgent: Controllable Blackbox Red-teaming on Web Agents</a></b> <a class="button" href="https://github.com/AI-secure/AdvAgent" target="_blank" rel="noopener">Code</a></p>
+            <p>Chejian Xu, <b>Mintong Kang</b>, Jiawei Zhang, Zeyi Liao, Lingbo Mo, Mengqi Yuan, Huan Sun, Bo Li</p>
+            <p><i>International Conference on Machine Learning (ICML 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2503.22738" target="_blank" rel="noopener">ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning</a></b></p>
+            <p>Zhaorun Chen, <b>Mintong Kang</b>, Bo Li</p>
+            <p><i>International Conference on Machine Learning (ICML 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2407.05557" target="_blank" rel="noopener">R<sup>2</sup>-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning</a></b> <a class="button" href="https://github.com/kangmintong/R-2-Guard" target="_blank" rel="noopener">Code</a></p>
+            <p><b>Mintong Kang</b>, Bo Li</p>
+            <p><i>International Conference on Learning Representations (ICLR 2025 Spotlight)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2412.08608" target="_blank" rel="noopener">AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models</a></b> <a class="button" href="https://github.com/kangmintong/AdvWave" target="_blank" rel="noopener">Code</a></p>
+            <p><b>Mintong Kang</b>, Chejian Xu, Bo Li</p>
+            <p><i>International Conference on Learning Representations (ICLR 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2503.01872" target="_blank" rel="noopener">FairGen: Controlling Sensitive Attributes for Fair Generations in Diffusion Models via Adaptive Latent Guidance</a></b></p>
+            <p><b>Mintong Kang</b>, Vinayshekhar Bannihatti Kumar, Shamik Roy, Abhishek Kumar, Sopan Khosla, Balakrishnan Murali Narayanaswamy, Rashmi Gangadharaiah</p>
+            <p><i>Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2503.14827" target="_blank" rel="noopener">MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models</a></b></p>
+            <p>Chejian Xu*, Jiawei Zhang*, Zhaorun Chen*, Chulin Xie*, <b>Mintong Kang*</b>, Zhuowen Yuan*, Zidi Xiong*, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Zhen Xiang, Zinan Lin, Dan Hendrycks, Dawn Song, Bo Li</p>
+            <p><i>International Conference on Learning Representations (ICLR 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2409.11295" target="_blank" rel="noopener">EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage</a></b> <a class="button" href="https://github.com/OSU-NLP-Group/EIA_against_webagent" target="_blank" rel="noopener">Code</a></p>
+            <p>Lingbo Mo*, Zeyi Liao*, Chejian Xu, <b>Mintong Kang</b>, Jiawei Zhang, Chaowei Xiao, Bo Li, Huan Sun</p>
+            <p><i>International Conference on Learning Representations (ICLR 2025)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2402.03181" target="_blank" rel="noopener">C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models</a></b> <a class="button" href="https://github.com/kangmintong/C-RAG" target="_blank" rel="noopener">Code</a></p>
+            <p><b>Mintong Kang</b>, Nezihe Merve Gürel, Ning Yu, Dawn Song, Bo Li</p>
+            <p><i>International Conference on Machine Learning (ICML 2024)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2406.01960" target="_blank" rel="noopener">Rob-FCP: Certifiably Byzantine-Robust Federated Conformal Prediction</a></b></p>
+            <p><b>Mintong Kang</b>, Zhen Lin, Jimeng Sun, Cao Xiao, Bo Li</p>
+            <p><i>International Conference on Machine Learning (ICML 2024)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2403.11348" target="_blank" rel="noopener">COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits</a></b></p>
+            <p><b>Mintong Kang*</b>, Nezihe Merve Gürel*, Linyi Li, Bo Li</p>
+            <p><i>International Conference on Learning Representations (ICLR 2024)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2306.11698" target="_blank" rel="noopener">DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models</a></b> <a class="button" href="https://github.com/AI-secure/DecodingTrust" target="_blank" rel="noopener">Code</a> <a class="button" href="https://huggingface.co/datasets/AI-Secure/DecodingTrust" target="_blank" rel="noopener">Data</a></p>
+            <p>Boxin Wang*, Weixin Chen*, Hengzhi Pei*, Chulin Xie*, <b>Mintong Kang*</b>, Chenhui Zhang*, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li</p>
+            <p><i>Advances in Neural Information Processing Systems (NeurIPS 2023 Outstanding Paper Award)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2311.16124" target="_blank" rel="noopener">DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification</a></b> <a class="button" href="https://github.com/kangmintong/DiffAttack" target="_blank" rel="noopener">Code</a></p>
+            <p><b>Mintong Kang</b>, Dawn Song, Bo Li</p>
+            <p><i>Advances in Neural Information Processing Systems (NeurIPS 2023)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://openreview.net/pdf?id=mJF9_Fs52ut" target="_blank" rel="noopener">FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs</a></b></p>
+            <p><b>Mintong Kang</b>, Linyi Li, Bo Li</p>
+            <p><i>IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2023)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2109.12265" target="_blank" rel="noopener">Data, Assemble: Leveraging Multiple Datasets with Heterogeneous and Partial Labels</a></b></p>
+            <p><b>Mintong Kang</b>, Yongyi Lu, Alan L. Yuille, Zongwei Zhou</p>
+            <p><i>IEEE International Symposium on Biomedical Imaging (ISBI 2023)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2205.15494" target="_blank" rel="noopener">Certifying Some Distributional Fairness with Subpopulation Decomposition</a></b> <a class="button" href="https://github.com/AI-secure/Certified-Fairness" target="_blank" rel="noopener">Code</a></p>
+            <p><b>Mintong Kang*</b>, Linyi Li*, Maurice Weber, Yang Liu, Ce Zhang, Bo Li</p>
+            <p><i>Advances in Neural Information Processing Systems (NeurIPS 2022 Spotlight)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2211.02091" target="_blank" rel="noopener">Fairness in Federated Learning via Core-Stability</a></b></p>
+            <p>Bhaskar Ray Chaudhury, Linyi Li, <b>Mintong Kang</b>, Bo Li, Ruta Mehta</p>
+            <p><i>Advances in Neural Information Processing Systems (NeurIPS 2022 Spotlight)</i></p>
+          </div>
+          <div class="paper">
+            <p class="title"><b><a href="https://arxiv.org/abs/2006.15524" target="_blank" rel="noopener">MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning</a></b></p>
+            <p>Hanbin Zhao, Yongjian Fu, <b>Mintong Kang</b>, Qi Tian, Fei Wu, Xi Li</p>
+            <p><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2021)</i></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="docs-section" id="service">
+      <h4>Service</h4>
+      <p><b>Reviewer:</b> ICML 2022-2026; NeurIPS 2022-2026; ICLR 2024-2026; TMLR 2026; AISTATS 2025; CVPR 2023-2025.</p>
+      <p><b>PC Member:</b> AAAI 2024-2025.</p>
+      <p><b>Organizer:</b> <a href="https://klr-icml2023.github.io/" target="_blank" rel="noopener">KLR@ICML 2023</a>; NeurIPS 2024 Competition on LLM and Agent Safety.</p>
+      <p><b>Teaching Assistant:</b> UIUC CS 441: Applied Machine Learning, Spring 2025.</p>
+    </div>
+
+    <div class="footer"></div>
+  </div>
+
+  <script>
+    document.querySelectorAll('.tab-nav .button').forEach(function(button) {
+      button.addEventListener('click', function() {
+        var target = document.querySelector(button.dataset.ref);
+        var group = button.closest('.docs-section');
+        group.querySelectorAll('.tab-nav .button').forEach(function(item) { item.classList.remove('active'); });
+        group.querySelectorAll('.tab-pane').forEach(function(item) { item.classList.remove('active'); });
+        button.classList.add('active');
+        target.classList.add('active');
+      });
+    });
+
+    var nav = document.querySelector('.navbar');
+    var spacer = document.querySelector('.navbar-spacer');
+    var navTop = nav.offsetTop;
+    window.addEventListener('scroll', function() {
+      if (window.innerWidth >= 750 && window.scrollY > navTop) {
+        document.body.classList.add('has-docked-nav');
+        spacer.style.display = 'block';
+      } else {
+        document.body.classList.remove('has-docked-nav');
+        spacer.style.display = '';
+      }
+    });
+  </script>
+</body>
+</html>

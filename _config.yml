@@ -6,9 +6,9 @@ email: mintong2@illinois.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal academic
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
+keywords: Mintong Kang, AI safety, AI security, trustworthy machine learning, LLM agents, multimodal models, guardrails, red-teaming, UIUC
+description: Mintong Kang is a Computer Science Ph.D. student at UIUC working on AI safety and security, automatic red-teaming, robust guardrails, and certifiable trustworthy machine learning.
+canonical: https://kangmintong.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
